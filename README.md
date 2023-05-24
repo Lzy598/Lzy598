@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lzy598
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python and Linux
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Javascript and vue
 - 💞️ I hope to find a good job through them
 - 📫 My Wechat:lzy2570288747  QQ:2570288747  Phone:18428001396
 - 
